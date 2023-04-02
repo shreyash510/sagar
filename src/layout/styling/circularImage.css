@@ -1,0 +1,24 @@
+.circularImage{
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+    border: 1px solid;
+}
+
+.labelImage {
+    font-weight: 200;
+}
+
+
+
+/** custom carosal **/
+
+.custormCarousel {
+    height: fit-content;
+    margin-bottom: 2em;
+
+}
+
+.circularImageMedia {
+    height: 11em
+}
